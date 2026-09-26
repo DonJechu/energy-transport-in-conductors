@@ -2,7 +2,9 @@
 
 **Jesús Alberto Perea García** — Mechatronics Engineering, IEST Anáhuac
 
-📄 **[Read the PDF](Perea-Garcia_2026_Energy-Transport-in-Conductors.pdf)**  ·  DOI: _pending_
+[![DOI](https://zenodo.org/badge/1388799364.svg)](https://doi.org/10.5281/zenodo.22983742)
+
+📄 **[Read the PDF](Perea-Garcia_2026_Energy-Transport-in-Conductors.pdf)**
 
 ## Abstract
 
@@ -17,10 +19,13 @@ Expository technical note, **not peer reviewed**. An experimental follow-up (mea
 | File | What |
 |---|---|
 | `Perea-Garcia_2026_Energy-Transport-in-Conductors.pdf` | The note |
+| `src/` | LaTeX source |
 
 ## How to cite
 
-See [`CITATION.cff`](CITATION.cff), or use GitHub's **"Cite this repository"** button.
+> Perea García, J. A. (2026). *Energy Transport in Conductors: A Field-Based View of EMI in Avionics Wiring* (Technical note, v1.0). Zenodo. https://doi.org/10.5281/zenodo.22983742
+
+Or use GitHub's **"Cite this repository"** button.
 
 ## License
 

@@ -9,5 +9,6 @@ authors:
     orcid: "https://orcid.org/0009-0004-9934-2648"
 date-released: 2026-09-26
 version: "1.0"
+doi: 10.5281/zenodo.22983742
 license: CC-BY-4.0
 keywords: [Poynting vector, surface charges, electromagnetic interference, crosstalk, avionics wiring, physics education]
