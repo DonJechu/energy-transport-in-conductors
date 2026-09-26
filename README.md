@@ -19,7 +19,6 @@ Expository technical note, **not peer reviewed**. An experimental follow-up (mea
 | File | What |
 |---|---|
 | `Perea-Garcia_2026_Energy-Transport-in-Conductors.pdf` | The note |
-| `src/` | LaTeX source |
 
 ## How to cite
 
