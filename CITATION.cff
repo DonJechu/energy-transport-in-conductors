@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: report
+title: "Energy Transport in Conductors: A Field-Based View of EMI in Avionics Wiring"
+authors:
+  - family-names: "Perea García"
+    given-names: "Jesús Alberto"
+    affiliation: "IEST Anáhuac"
+    orcid: "https://orcid.org/0009-0004-9934-2648"
+date-released: 2026-09-26
+version: "1.0"
+license: CC-BY-4.0
+keywords: [Poynting vector, surface charges, electromagnetic interference, crosstalk, avionics wiring, physics education]
